@@ -1,18 +1,9 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: Custom issue template
-about: 이슈 템플릿
+about: 이슈템플릿
 title: 'Feat'
 labels: 'enhancement'
-assignees: soonhankwon
+assignees: 'soonhankwon'
 
 ---
 
